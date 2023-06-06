@@ -44,7 +44,7 @@ The purpose of this analysis is to reflect on the creation and evaluation of the
 Although the goal of 75% accuracy was not achieved, much was learned about the dataset and with further resource investment, I am confident that the 75% accuracy benchmark would be achievable.
 
 
-# DATASET ([charity_data.csv](https://static.bc-edx.com/data/dl-1-2/m21/lms/starter/charity_data.csv))
+# Sample of DATASET ([charity_data.csv](https://static.bc-edx.com/data/dl-1-2/m21/lms/starter/charity_data.csv))
 |index|EIN|NAME|APPLICATION\_TYPE|AFFILIATION|CLASSIFICATION|USE\_CASE|ORGANIZATION|STATUS|INCOME\_AMT|SPECIAL\_CONSIDERATIONS|ASK\_AMT|IS\_SUCCESSFUL|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |0|10520599|BLUE KNIGHTS MOTORCYCLE CLUB|T10|Independent|C1000|ProductDev|Association|1|0|N|5000|1|
